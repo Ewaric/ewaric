@@ -2,10 +2,10 @@
 
 ##
 
-<a href="https://github.com/Ewaric/github-readme-stats">
+<a href="https://github.com/Ewaric">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ewaric&theme=tokyonight" />
 </a>
-<a href="https://github.com/Ewaric/convoychat">
+<a href="https://github.com/Ewaric">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ewaric&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
 </a>
 
